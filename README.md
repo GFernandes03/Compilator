@@ -1,10 +1,10 @@
 # Compilator
 
-Compilador simples escrito em C, desenvolvido como projeto da disciplina de Compiladores na faculdade.
+Compilador simples inacabado escrito em C, desenvolvido junto com meus amigos para a disciplina de Compiladores na faculdade.
 
-## Sobre o projeto
+## Sobre o trabalho
 
-O projeto implementa as primeiras etapas de um compilador:
+Implementa as primeiras etapas de um compilador:
 
 - **Analisador léxico (lexer):** lê o código-fonte e o divide em tokens.
 - **Analisador sintático (parser):** verifica se a sequência de tokens segue a gramática da linguagem.
@@ -51,6 +51,8 @@ compilador.exe teste.txt
 ## Autor
 
 **Guilherme Fernandes**
-Estudante de Ciência da Computação na UFRRJ
+**Wanderson de Souza**
+**Daniel Pereira**
 
-[LinkedIn](https://www.linkedin.com/in/guilherme-fernandes-17a185328/)
+Estudantes de Ciência da Computação na UFRRJ
+
