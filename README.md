@@ -48,10 +48,12 @@ compilador.exe teste.txt
 - [x] Analisador sintático
 - [x] Exemplos de teste funcionando
 
-## Autor
+## Autores
 
 **Guilherme Fernandes**
+
 **Wanderson de Souza**
+
 **Daniel Pereira**
 
 Estudantes de Ciência da Computação na UFRRJ
